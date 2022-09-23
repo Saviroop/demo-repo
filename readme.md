@@ -1,6 +1,4 @@
-read me please
-
-
-#wi
-
-ret
+[mci extensions]
+[files]
+[Mail]
+MAPI=1
